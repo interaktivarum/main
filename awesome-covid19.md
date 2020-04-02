@@ -89,6 +89,7 @@ Your contributions are always welcome!
 * [COVID-19 Infographics](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/), infographics you can use to inform others on COVID-19
 * [Next Strain](https://nextstrain.org/ncov)
 * [USA Facts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/), interactive time-series map. Watch per state & county.
+* [Flatten the curve. Today!](https://flattenthecurve.today), interactive simulation of virus outbreaks and the effects of taking protective social measures.
 
 ## Dashboards
 * [Johns Hopkins Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), most famous covid19 dashboard
